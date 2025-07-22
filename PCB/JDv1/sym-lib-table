@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "JobotSymbols")(type "KiCad")(uri "${KIPRJMOD}/Symbol Libraries/JobotSymbols.kicad_sym")(options "")(descr ""))
+)
