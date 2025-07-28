@@ -632,6 +632,10 @@
     [
       "c627d25b-b8e1-4cc9-a499-77447d9468f7",
       "Connectors"
+    ],
+    [
+      "f2dc33c3-9e22-4258-9002-9784d5396fb9",
+      "Debug"
     ]
   ],
   "text_variables": {}
