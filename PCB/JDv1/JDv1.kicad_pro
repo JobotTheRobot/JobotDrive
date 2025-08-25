@@ -636,6 +636,22 @@
     [
       "f2dc33c3-9e22-4258-9002-9784d5396fb9",
       "Debug"
+    ],
+    [
+      "ff0ff92c-2c1e-47d0-86c9-db3dedb1e962",
+      "Bridge"
+    ],
+    [
+      "883e23bb-53c3-4a01-b69f-a800fcaf2aa4",
+      "A_HalfBridge"
+    ],
+    [
+      "8bd09948-5d4d-4d7b-b6ca-5ea299dc87c1",
+      "B_HalfBridge"
+    ],
+    [
+      "476bda28-899e-430d-8fd7-ec09144e0e54",
+      "C_HalfBridge"
     ]
   ],
   "text_variables": {}

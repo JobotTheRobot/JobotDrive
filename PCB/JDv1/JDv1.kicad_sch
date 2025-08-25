@@ -97,7 +97,7 @@
 	)
 	(sheet
 		(at 83.82 24.13)
-		(size 54.61 44.45)
+		(size 54.61 52.07)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -121,7 +121,7 @@
 			)
 		)
 		(property "Sheetfile" "driver.kicad_sch"
-			(at 83.82 69.1646 0)
+			(at 83.82 76.7846 0)
 			(effects
 				(font
 					(size 1.27 1.27)
