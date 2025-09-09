@@ -2904,6 +2904,16 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "TEST TO USE INDIVIDUAL GATE DRIVERS INSTEAD OF DRV8302\nWILL PREVENT LIMITING FEATURES (e.g. 2-phase inline vs 3-phase)"
+		(exclude_from_sim no)
+		(at 138.684 18.796 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "18bd5dae-e469-4e4d-b84b-dd1f067499bb")
+	)
 	(text "LOOK INTO CURRENT SENSING OPTIONS. HOW TO SENSE ALL 3 CURRENTS?"
 		(exclude_from_sim no)
 		(at 216.154 148.844 0)
