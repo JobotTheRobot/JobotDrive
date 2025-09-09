@@ -96,7 +96,7 @@
 		)
 	)
 	(sheet
-		(at 83.82 24.13)
+		(at 83.82 22.86)
 		(size 54.61 52.07)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -112,7 +112,7 @@
 		)
 		(uuid "99cc1ace-a3d0-4c8e-ae28-91c04f5cfd08")
 		(property "Sheetname" "Driver"
-			(at 83.82 23.4184 0)
+			(at 83.82 22.1484 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -121,7 +121,7 @@
 			)
 		)
 		(property "Sheetfile" "driver.kicad_sch"
-			(at 83.82 76.7846 0)
+			(at 83.82 75.5146 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -138,7 +138,7 @@
 		)
 	)
 	(sheet
-		(at 154.94 24.13)
+		(at 154.94 22.86)
 		(size 55.88 48.26)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -154,7 +154,7 @@
 		)
 		(uuid "bb51cda9-e9ef-4f70-adf0-56bd84969999")
 		(property "Sheetname" "MCU"
-			(at 154.94 23.4184 0)
+			(at 154.94 22.1484 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -163,7 +163,7 @@
 			)
 		)
 		(property "Sheetfile" "mcu.kicad_sch"
-			(at 154.94 72.9746 0)
+			(at 154.94 71.7046 0)
 			(effects
 				(font
 					(size 1.27 1.27)

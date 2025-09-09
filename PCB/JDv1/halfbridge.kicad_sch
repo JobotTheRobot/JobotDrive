@@ -1867,7 +1867,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 130.81 74.93 0)
 			(effects
 				(font
@@ -2019,7 +2019,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SMA"
 			(at 173.99 87.63 90)
 			(effects
 				(font
@@ -2096,7 +2096,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 165.1 96.52 0)
 			(effects
 				(font
@@ -2174,7 +2174,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 156.21 72.39 0)
 			(effects
 				(font
@@ -2251,7 +2251,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 165.1 87.63 0)
 			(effects
 				(font
@@ -2403,7 +2403,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 129.54 113.03 0)
 			(effects
 				(font
@@ -2481,7 +2481,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_TO_SOT_SMD:TO-252-2_TabPin1"
 			(at 146.05 90.17 0)
 			(effects
 				(font
@@ -2589,7 +2589,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 173.99 96.52 0)
 			(effects
 				(font
@@ -2738,7 +2738,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 130.81 92.71 0)
 			(effects
 				(font
@@ -2815,7 +2815,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 143.51 113.03 0)
 			(effects
 				(font
@@ -2893,7 +2893,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_TO_SOT_SMD:TO-252-2_TabPin1"
 			(at 146.05 72.39 0)
 			(effects
 				(font

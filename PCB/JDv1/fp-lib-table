@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "JobotFootprints")(type "KiCad")(uri "${KIPRJMOD}/Footprint Libraries")(options "")(descr ""))
+)
